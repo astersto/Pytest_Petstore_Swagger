@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Bruno",
+    "status": "available",
+    "category": {"id": 1, "name": "Dogs"},
+    "tags": [{"id": 1, "name": "friendly"}],
+    "photoUrls": ["http://example.com/photo1.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Whiskers",
+    "status": "pending",
+    "category": {"id": 2, "name": "Cats"},
+    "tags": [{"id": 2, "name": "indoor"}],
+    "photoUrls": ["http://example.com/photo2.jpg"]
+  }
+]
